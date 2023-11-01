@@ -1,0 +1,24 @@
+/* Write your code here. */
+li {
+  border: 1px solid #d7dae6;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+.FaqItem-inner-cont {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.seperator {
+  border: 1px solid #e4e7eb;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
