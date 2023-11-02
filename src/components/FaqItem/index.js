@@ -27,7 +27,7 @@ class FaqItem extends Component {
     const url = isRevealed
       ? 'https://assets.ccbp.in/frontend/react-js/faqs-minus-icon-img.png'
       : 'https://assets.ccbp.in/frontend/react-js/faqs-plus-icon-img.png'
-    const alt = isRevealed ? 'plus' : 'minus'
+    const alt = isRevealed ? 'minus' : 'plus'
     return (
       <li>
         <div className="FaqItem-inner-cont">
